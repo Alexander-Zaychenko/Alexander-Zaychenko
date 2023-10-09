@@ -10,6 +10,7 @@
 ![Codewars](https://www.codewars.com/users/Alex2012/badges/micro)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
+![LeetCode Stats](https://leetcode.card.workers.dev/alexander_zaychenko?theme=dark&font=baloo&extension=null)
 <!--
 **Alexander-Zaychenko/Alexander-Zaychenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
