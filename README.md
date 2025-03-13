@@ -7,7 +7,7 @@
 ![Poetry](https://camo.githubusercontent.com/b4cc12822a242c61ee35eab2fdb6c1e9b03699822c43c05107b14080e8f16736/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f706f657472792d2532333141314131412e7376673f7374796c653d706c6173746963266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465)
 ![flask](https://camo.githubusercontent.com/598b6d0a3fcc15f77974d2b9d5c751fca3d9bf3083b02a9015df4520d55d6b61/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f666c61736b2d2532334646464646462e7376673f7374796c653d706c6173746963266c6f676f3d666c61736b266c6f676f436f6c6f723d626c61636b)
 ![pytest](https://camo.githubusercontent.com/2c884641913cfe5051781720abf82b7a5d8e27ff5a22b95eced30b215434264c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7079746573742d2532333030413345302e7376673f7374796c653d706c6173746963266c6f676f3d707974657374266c6f676f436f6c6f723d7768697465)
-![Codewars]([https://www.codewars.com/users/Alex2012/badges/micro](https://www.codewars.com/users/Alexandr-Zaychenko/badges/micro))
+![Codewars]([https://www.codewars.com/users/Alexandr-Zaychenko/badges/micro](https://www.codewars.com/users/Alexandr-Zaychenko/badges/micro))
 
 [![alexander_zaychenko's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=alexander_zaychenko&theme=Mist)](https://github.com/JeremyTsaii/leetcode-stats)
 <!--
